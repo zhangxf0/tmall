@@ -25,7 +25,7 @@
 >对前台需要用到的数据，进行管理维护。  
 
 # 4.表结构设计  
-![](https://github.com/zhangxf0/
+！[]（https://github.com/zhangxf0/tmall/raw/tmall/sql/table.png)
 
 
 
